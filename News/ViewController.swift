@@ -76,7 +76,6 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
             } catch let error {
                 print(error)
             }
-            
         }
         task.resume()*/
     }
